@@ -1,0 +1,18 @@
+[
+  {
+  "id": 1,
+  "description": "ava_image_file",
+  "data": {
+    "bucketName": "photo",
+    "dataResourceFile":"data/ava.jpeg"
+  }
+},
+  {
+    "id": 2,
+    "description": "cccd_image_file",
+    "data": {
+      "bucketName": "photo",
+      "dataResourceFile":"data/cccd.jpg"
+    }
+  }
+]

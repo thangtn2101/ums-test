@@ -1,0 +1,24 @@
+[
+  {
+  "id": 0,
+  "description": "checking edit account",
+  "data":
+  {
+    "phoneNumber": "0123456789",
+    "userName": "Halimeda",
+    "fullName": "Shead Grayling",
+    "address": "Komyshuvakha",
+    "birthdate": "2022-05-18",
+    "password": "strikland123@@bcde",
+    "sex": "MALE",
+    "email": "asheadi@businessweek.com",
+    "faceUrl": "string",
+    "fontCard": "string",
+    "backCard": "string",
+    "idCardNo": "string",
+    "idCardType": "CCCD",
+    "issueCardDate": "2022-05-02",
+    "expiredCardDate": "2023-05-02"
+  }
+}
+]
